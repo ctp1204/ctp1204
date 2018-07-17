@@ -313,6 +313,9 @@ img#img01{
     div#showcase .container {
         padding: 10px;
     }
+    div#showcase .container h1 {
+        line-height: 40px;
+    }
     #title, header, nav {
         float: none;
         width: 100%;
@@ -404,9 +407,9 @@ img#img01{
         font-size: 15px;
         margin-left: 17px;
     }
-    .container .title {
-        display: flex;
-        margin-left: -15px;
+    .imgage .container .title {
+        display: inline-flex;
+        margin: auto;
     }
 }
 /*Destop*/
