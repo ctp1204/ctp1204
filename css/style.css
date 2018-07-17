@@ -211,11 +211,12 @@ button#pur:hover {
     padding-top: 20px;
 }
 .imgage .container .title h3 {
-    margin-left: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
-.container .title {
-    display: flex;
-    margin-left: 55px;
+.imgage .container .title {
+    display: inline-flex;
+    margin: auto;
 }
 
 .imgage {
