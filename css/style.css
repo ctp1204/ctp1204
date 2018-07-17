@@ -404,5 +404,9 @@ img#img01{
         font-size: 15px;
         margin-left: 17px;
     }
+    .container .title {
+        display: flex;
+        margin-left: -15px;
+    }
 }
 /*Destop*/
